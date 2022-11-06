@@ -14,8 +14,12 @@ git clone https://github.com/Ramazannckr/kodluyoruzilkrepo
 
 * Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+Linux için:
+
+```python
 cd kodluyoruzilkrepo
 code .
+```
 
 #### LİCENSE
 
