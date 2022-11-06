@@ -5,3 +5,4 @@
 ## Installation
 
 *Öncelikle projeyi clonelayın
+[Git Clone](https://github.com/Ramazannckr/kodluyoruzilkrepo)
