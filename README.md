@@ -6,7 +6,9 @@
 
 * Öncelikle projeyi clonelayın
 
-[Git Clone](https://github.com/Ramazannckr/kodluyoruzilkrepo)
+```python
+git clone https://github.com/Ramazannckr/kodluyoruzilkrepo
+```
 
 ### USAGE
 
